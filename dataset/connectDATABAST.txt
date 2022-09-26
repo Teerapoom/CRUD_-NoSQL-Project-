@@ -1,0 +1,2 @@
+db.createUser({user: "teerapoom", pwd: "jame0872746355", roles:
+[{role: "dbAdmin", db: "Supermarket_sales"}, "dbAdmin"]})
